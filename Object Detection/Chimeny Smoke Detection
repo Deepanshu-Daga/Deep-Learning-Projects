@@ -1,1 +1,4 @@
 
+# creating a trainging data set to train our deep learning model on it .
+# model training period : 26 hours
+# using YOLOv5 Architecture for the object detection.
